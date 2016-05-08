@@ -8,4 +8,4 @@ Some of the files/instructions used in the video [E-textile mesuaring EMG](https
 - [Shield EKG-EMG](https://www.olimex.com/Products/Duino/Shields/SHIELD-EKG-EMG/open-source-hardware)
 
 ## SW
-= [RTGraph](https://github.com/ssepulveda/RTGraph)
+- [RTGraph](https://github.com/ssepulveda/RTGraph)
